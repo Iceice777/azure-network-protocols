@@ -120,7 +120,8 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-![Image](https://github.com/user-attachments/assets/7ec0e440-061e-42b6-9dc8-c839e30008cb)
+![RDP filter](https://github.com/user-attachments/assets/21f7e80d-864f-4a91-923f-20a59b444b51)
+
 </p>
 <p>
 (Observe RDP Traffic)
