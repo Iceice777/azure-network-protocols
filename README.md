@@ -96,7 +96,8 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-![Image](https://github.com/user-attachments/assets/8000443e-0ee6-4ef5-a963-c3acd413d232)</p>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420630913-8000443e-0ee6-4ef5-a963-c3acd413d232.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T234250Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ba9d9c85523ad746b3cf08a7ca39d87ea82ab6fd9bd3da33a505ea227bd26593&amp;X-Amz-SignedHeaders=host"
+</p>
 <p>
 (Observe DHCP Traffic)
 Back in Wireshark, filter for DHCP traffic only
