@@ -96,8 +96,7 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Image](https://github.com/user-attachments/assets/8000443e-0ee6-4ef5-a963-c3acd413d232)</p>
 <p>
 (Observe DHCP Traffic)
 Back in Wireshark, filter for DHCP traffic only
@@ -108,7 +107,8 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420630659-3f7674fd-3689-47e1-b4c0-9b1923dacaa1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T233454Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e0a1ac4a3778bf34bda546859bdf6657dd13b7adff7828e1ba2202eeb0a87dfc&amp;X-Amz-SignedHeaders=host")
+
 </p>
 <p>
 (Observe DNS Traffic)
