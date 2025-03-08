@@ -120,7 +120,7 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Image](https://github.com/user-attachments/assets/7ec0e440-061e-42b6-9dc8-c839e30008cb)
 </p>
 <p>
 (Observe RDP Traffic)
