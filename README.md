@@ -80,7 +80,7 @@ Stop the ping activity
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566361-01f3faca-fc0e-4efa-acc9-62039c65ccd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0MTU5NTAsIm5iZiI6MTc0MTQxNTY1MCwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2MzYxLTAxZjNmYWNhLWZjMGUtNGVmYS1hY2M5LTYyMDM5YzY1Y2NkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwOFQwNjM0MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzRlMmM2YzVhMDY1Zjc5ZTljZTBiZWM4MmM2OGQxNDFkZDQ5NDFhMDZhZDBhOGIxYTk3Mjg5OGQ3OTQ4MWEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bFCFwQjGmmSt80wfrrazom0Ui6MlQ_219i7F-cEO3M8">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566361-01f3faca-fc0e-4efa-acc9-62039c65ccd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2MzYxLTAxZjNmYWNhLWZjMGUtNGVmYS1hY2M5LTYyMDM5YzY1Y2NkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODQzMDA2MTY3ZTc3NzEzNWYxMDlmN2I5NzkyOWNiMmI3YTIyZTNjNDc1ODc0MzNhYTJlYmFiMzJjYmI2ZTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cGYvnB2v7uPDPIGWhsGMuag77QfSAIjZB5ViLEttLDw">
 </p>
 <p>
 (Observe SSH Traffic)
@@ -96,8 +96,7 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420630913-8000443e-0ee6-4ef5-a963-c3acd413d232.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T234250Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ba9d9c85523ad746b3cf08a7ca39d87ea82ab6fd9bd3da33a505ea227bd26593&amp;X-Amz-SignedHeaders=host"
-</p>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420946322-11bdf507-0c7b-4a0d-b2f3-48f6ec3d4a45.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250310T141500Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7939bcf1ef18fa0365695c648e0c73db7c626a82cf453fa3f0f7f39d49acfa0a&amp;X-Amz-SignedHeaders=host">
 <p>
 (Observe DHCP Traffic)
 Back in Wireshark, filter for DHCP traffic only
@@ -108,7 +107,7 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420630659-3f7674fd-3689-47e1-b4c0-9b1923dacaa1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T233454Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e0a1ac4a3778bf34bda546859bdf6657dd13b7adff7828e1ba2202eeb0a87dfc&amp;X-Amz-SignedHeaders=host")
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566382-cb1963ec-e1d4-4786-a26b-35a446f83218.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2MzgyLWNiMTk2M2VjLWUxZDQtNDc4Ni1hMjZiLTM1YTQ0NmY4MzIxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGY1NDc5MzEwNTIxYmQ3NDM5NjU0NmNmZTM3YzE5ZTI0ODExOTcyZTUyODYwOWRhODNiZWRlY2M3ODhmNjlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VzXqN7yERu9_XTLmmx20A1Ur6wW9ytbOiHrTq1gy99I">
 
 </p>
 <p>
@@ -120,7 +119,7 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420567017-21f7e80d-864f-4a91-923f-20a59b444b51.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T062507Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=63d974eca2c848622f314c3bc8aaef8ea7704ab9996f202b9f6b5e79284408d1&amp;X-Amz-SignedHeaders=host">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566401-7ec0e440-061e-42b6-9dc8-c839e30008cb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2NDAxLTdlYzBlNDQwLTA2MWUtNDJiNi05ZGM4LWM4MzllMzAwMDhjYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGEyN2E3MWI0YjVlNTJjYTE4Njk5YTkwNmIzN2U0MmE0YTA4MGZmMGRhNDJkMmFmNWI1YWI0NDE0OGVkZTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pIpTqXoZ3cKyt82gbvzmTwMJfGOrDm4hMxvEfh62lsU">
 </p>
 <p>
 (Observe RDP Traffic)
