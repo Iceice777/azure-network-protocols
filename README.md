@@ -65,7 +65,8 @@ From The Windows 10 VM, open command line or PowerShell and attempt to ping a pu
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420567914-94d3ab71-0ad8-4482-a726-6a0ac9ccecb0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T063831Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=92bc63faa24e0527d6c52d972a26ed737071e8b25e2f1c3de2d4d4536c0d3c7c&amp;X-Amz-SignedHeaders=host">
+<img width="1612" height="755" alt="image" src="https://github.com/user-attachments/assets/7f25f17b-0199-4f7d-935d-69dd394c44b9" />
+
 </p>
 <p>
 (Configuring a Firewall [Network Security Group])
@@ -80,7 +81,8 @@ Stop the ping activity
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566361-01f3faca-fc0e-4efa-acc9-62039c65ccd0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2MzYxLTAxZjNmYWNhLWZjMGUtNGVmYS1hY2M5LTYyMDM5YzY1Y2NkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yODQzMDA2MTY3ZTc3NzEzNWYxMDlmN2I5NzkyOWNiMmI3YTIyZTNjNDc1ODc0MzNhYTJlYmFiMzJjYmI2ZTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cGYvnB2v7uPDPIGWhsGMuag77QfSAIjZB5ViLEttLDw">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2c48ba1-8d23-4c4a-af42-5ae24b17a144" />
+
 </p>
 <p>
 (Observe SSH Traffic)
@@ -107,7 +109,8 @@ Observe the DHCP traffic appearing in WireShark
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566382-cb1963ec-e1d4-4786-a26b-35a446f83218.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2MzgyLWNiMTk2M2VjLWUxZDQtNDc4Ni1hMjZiLTM1YTQ0NmY4MzIxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGY1NDc5MzEwNTIxYmQ3NDM5NjU0NmNmZTM3YzE5ZTI0ODExOTcyZTUyODYwOWRhODNiZWRlY2M3ODhmNjlkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VzXqN7yERu9_XTLmmx20A1Ur6wW9ytbOiHrTq1gy99I">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2794944b-fb1a-446e-9e5b-f92ce35e5534" />
+
 
 </p>
 <p>
@@ -119,7 +122,8 @@ Observe the DNS traffic being show in WireShark
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://private-user-images.githubusercontent.com/142127371/420566401-7ec0e440-061e-42b6-9dc8-c839e30008cb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTU2MjYsIm5iZiI6MTc0MTYxNTMyNiwicGF0aCI6Ii8xNDIxMjczNzEvNDIwNTY2NDAxLTdlYzBlNDQwLTA2MWUtNDJiNi05ZGM4LWM4MzllMzAwMDhjYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNDAyMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGEyN2E3MWI0YjVlNTJjYTE4Njk5YTkwNmIzN2U0MmE0YTA4MGZmMGRhNDJkMmFmNWI1YWI0NDE0OGVkZTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.pIpTqXoZ3cKyt82gbvzmTwMJfGOrDm4hMxvEfh62lsU">
+<img <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffb52946-6327-4cca-9db3-dd35b1f81902" />
+">
 </p>
 <p>
 (Observe RDP Traffic)
