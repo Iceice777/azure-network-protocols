@@ -33,7 +33,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420568330-5fbaaefd-7cd7-4c41-809d-0a0c0d4e2a5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T064313Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=34498fd4afc4e4d4aba8b58d2d1536feee8fd41b52709fe5c8b508196d4c9613&amp;X-Amz-SignedHeaders=host">
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/413ca883-415a-45bd-977d-aaa3c1dd8d8d" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d9203ee8-02d8-4d64-bbce-40b615933fee" />
 </p>
 <p>
 Create a Resource Group
@@ -49,12 +50,13 @@ Ensure both VMs are in the same Virtual Network / Subnet
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420562561-d22d0f1f-a23d-4e8c-baf5-7a91f0709866.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250308T063035Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=c3c9712a2c55f0ef7ce44e3d47c4a14ed439b79c5026810ab6ff7e8019186626&amp;X-Amz-SignedHeaders=host">
+<img width="1903" height="963" alt="WireShark installation page" src="https://github.com/user-attachments/assets/a3a3d828-05dc-4251-95b4-5c46ae7616bc" />
+
 </p>
 <p>
 If using Mac, install Microsoft Remote Desktop
 Use Remote Desktop to connect to your Windows 10 Virtual Machine
-Within your Windows 10 Virtual Machine, Install Wireshark
+Within your Windows 10 Virtual Machine, Install Wireshark (www.wireshark.org/download.html)
 Open Wireshark and start packet capture
 Within Wireshark, filter for ICMP traffic only
 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
@@ -65,8 +67,7 @@ From The Windows 10 VM, open command line or PowerShell and attempt to ping a pu
 <br />
 
 <p>
-<img width="1612" height="755" alt="image" src="https://github.com/user-attachments/assets/7f25f17b-0199-4f7d-935d-69dd394c44b9" />
-
+<img width="1920" height="1080" alt="Configuring Firewall " src="https://github.com/user-attachments/assets/f85478f6-fadd-4ee1-9fe3-a332163aa317" />
 </p>
 <p>
 (Configuring a Firewall [Network Security Group])
@@ -86,7 +87,7 @@ Stop the ping activity
 </p>
 <p>
 (Observe SSH Traffic)
-Log back into the windows-vm
+Log back into the Windows-VM
 Back in Wireshark, start a packet capture up
 Filter for SSH traffic only
 From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)![Uploading Screenshot (132).png…]()
@@ -98,7 +99,8 @@ Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 <br />
 
 <p>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/142127371/420946322-11bdf507-0c7b-4a0d-b2f3-48f6ec3d4a45.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250310T141500Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7939bcf1ef18fa0365695c648e0c73db7c626a82cf453fa3f0f7f39d49acfa0a&amp;X-Amz-SignedHeaders=host">
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/a4877570-e7c8-4f7f-9098-fee49216d96e" />
+
 <p>
 (Observe DHCP Traffic)
 Back in Wireshark, filter for DHCP traffic only
