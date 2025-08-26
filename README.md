@@ -35,16 +35,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/413ca883-415a-45bd-977d-aaa3c1dd8d8d" />
 <img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d9203ee8-02d8-4d64-bbce-40b615933fee" />
+<p>
+Create a Resource Group and create a Windows 10 Virtual Machine (VM)
+Then select the previously created Resource Group, and allow it to create a new Virtual Network (Vnet) and Subnet
+</p>
+<br />
+  
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/f067e7ec-935b-425e-a7dc-35cf07b5388e" />
 </p>
 <p>
-Create a Resource Group
-Create a Windows 10 Virtual Machine (VM)
-While creating the VM, select the previously created Resource Group
-While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
-Create a Linux (Ubuntu) VM
-While creating the VM, select the previously created Resource Group and Virtual Network—the Virtual Network MUST BE THE SAME.
-Authentication type: Username/Password
-Ensure both VMs are in the same Virtual Network / Subnet
+Create a Linux (Ubuntu) VM as well.
+Select the previously created Resource Group and Virtual Network.
+  The Virtual Network MUST BE THE SAME.
 
 </p>
 <br />
@@ -54,9 +56,18 @@ Ensure both VMs are in the same Virtual Network / Subnet
 
 </p>
 <p>
-If using Mac, install Microsoft Remote Desktop
-Use Remote Desktop to connect to your Windows 10 Virtual Machine
 Within your Windows 10 Virtual Machine, Install Wireshark (www.wireshark.org/download.html)
+Open Wireshark and start packet capture
+Within Wireshark, filter for ICMP traffic only
+Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
+Observe ping requests and replies within WireShark
+From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
+
+</p>
+<br />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/dd589afe-8ae1-4ea7-a7c2-7ffb875a25ce" />
+
+<p>
 Open Wireshark and start packet capture
 Within Wireshark, filter for ICMP traffic only
 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
@@ -67,13 +78,15 @@ From The Windows 10 VM, open command line or PowerShell and attempt to ping a pu
 <br />
 
 <p>
-<img width="1920" height="1080" alt="Configuring Firewall " src="https://github.com/user-attachments/assets/f85478f6-fadd-4ee1-9fe3-a332163aa317" />
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/b35353b0-6d31-4ad1-aa2a-b5e5672772db" />
 </p>
 <p>
 (Configuring a Firewall [Network Security Group])
 Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM
 Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic
 Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/faeb7876-e99c-4f62-8eae-2640544cfe40" />
+
 Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is
 Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working)
 Stop the ping activity
@@ -88,10 +101,7 @@ Stop the ping activity
 <p>
 (Observe SSH Traffic)
 Log back into the Windows-VM
-Back in Wireshark, start a packet capture up
-Filter for SSH traffic only
-From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address)![Uploading Screenshot (132).png…]()
-
+Back in Wireshark, start a packet capture up From Your Windows 10 “SSH into” your Ubuntu Virtual Machine (via its private IP address)! Open PoweShell, and type: ssh labuser@ Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark Exit the SSH connection by typing ‘exit’ and pressing [Enter]"
 Open PowerShell, and type: ssh labuser@<private IP address>
 Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
 Exit the SSH connection by typing ‘exit’ and pressing [Enter]
@@ -125,13 +135,13 @@ Observe the DNS traffic being show in WireShark
 
 <p>
 <img <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ffb52946-6327-4cca-9db3-dd35b1f81902" />
-">
 </p>
-<p>
-(Observe RDP Traffic)
+<p>(Observe RDP Traffic)
 Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)
 Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?
-Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted
+
+  
+  Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefor traffic is always being transmitted
 </p>
 <br />
 
